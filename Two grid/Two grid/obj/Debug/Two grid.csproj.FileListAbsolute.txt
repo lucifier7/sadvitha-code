@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\Two grid\Two grid\bin\Debug\Two grid.exe.config
+C:\Users\labuser\source\repos\Two grid\Two grid\bin\Debug\Two grid.exe
+C:\Users\labuser\source\repos\Two grid\Two grid\bin\Debug\Two grid.pdb
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two grid.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two grid.csproj.SuggestedBindingRedirects.cache
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two_grid.Form1.resources
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two_grid.Properties.Resources.resources
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two grid.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two grid.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two grid.exe
+C:\Users\labuser\source\repos\Two grid\Two grid\obj\Debug\Two grid.pdb
